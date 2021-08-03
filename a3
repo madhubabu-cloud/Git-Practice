@@ -1,0 +1,7 @@
+## This is file 3 ##
+
+a=12
+b=13
+c=a+b
+Print c
+
